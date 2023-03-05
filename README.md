@@ -1,2 +1,2 @@
 # Gravity-Simulator
-An educational app for students to learn gravity and orbital mechanics.
+This is an educational app made in QB64 that allows students to see and interact with three introductory simulations.  It was created for SpaceAthon 2023.  It allows students to build a connection with the deep nature of gravity and build an intuition behind how it works.  It also prompts students with technical questions to sharpen their mathematical skills.  A demonstration can be found at https://youtu.be/xJxP5pKicCs.
